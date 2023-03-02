@@ -1,0 +1,3 @@
+Link para documentação do Git e GitHub: https://git-scm.com/book/pt-br/v2/
+
+Essa documentação irá colaborar no aprendizado sobre o Git e GitHub.
